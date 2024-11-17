@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FhV7aIn8bkQFdhAr7p1GISN5KOBVvfXRq22vjQ2VjMI=",
+  "Source": "FileAnalyzerAPI",
+  "BasePath": "_content/FileAnalyzerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
